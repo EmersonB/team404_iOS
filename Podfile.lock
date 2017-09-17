@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.5.0)
+  - ArcGIS-Runtime-SDK-iOS (100.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - ArcGIS-Runtime-SDK-iOS (= 100.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  ArcGIS-Runtime-SDK-iOS: 9b9c2478c974ef0b704b853948a19227f3124ceb
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 0dbdcdddcfa00371bc68b0bebab83cb6ad70fc47
+
+COCOAPODS: 1.2.0
